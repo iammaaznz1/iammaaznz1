@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @iammaaznz1
 - 👀 I’m interested in mobile development and UI
 - 🌱 I’m currently learning flutter and Dart
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: iammaaznz1@gmail.com
 
 <!---
